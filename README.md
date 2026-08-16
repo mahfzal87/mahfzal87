@@ -7,8 +7,6 @@
 
 **Product Lead, AI Platforms at [Open Innovation AI](https://openinnovation.ai).** I build AI for organisations that cannot put their data in someone else's cloud. The kind where data residency is the first question in the room, not the last slide in the deck.
 
-> Product Lead, AI Platforms &nbsp;·&nbsp; Sovereign and Regulated Enterprise AI &nbsp;·&nbsp; Abu Dhabi, UAE
-
 <samp>
 <a href="https://mahmadafzal.com">mahmadafzal.com</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mahfzal/">LinkedIn</a> &nbsp;·&nbsp;
