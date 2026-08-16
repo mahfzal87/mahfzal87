@@ -5,7 +5,7 @@
 
 ### Ahmad Afzal
 
-**Product Lead, AI Platforms at [Open Innovation AI](https://openinnovation.ai).** I build AI for organisations that cannot put their data in someone else's cloud. The kind where data residency is the first question in the room.
+**Product Lead, AI Platforms.** I build AI for organisations that cannot put their data in someone else's cloud. The kind where data residency is the first question in the room.
 
 <samp>
 <a href="https://mahmadafzal.com">mahmadafzal.com</a> &nbsp;·&nbsp;
