@@ -44,3 +44,4 @@ Follow the work here or on [LinkedIn](https://www.linkedin.com/in/mahfzal/). To 
 ---
 
 <sub>This profile is text on purpose. No streak counters, no stats cards: commit volume is a poor proxy for product work.</sub>
+
