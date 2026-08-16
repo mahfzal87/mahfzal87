@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Ahmad Afzal, Product Lead for AI platforms, sovereign and regulated enterprise AI, Abu Dhabi" src="assets/banner-light.svg" width="100%">
+  <img alt="Ahmad Afzal, Product Lead, AI Platforms, sovereign and regulated enterprise AI, Abu Dhabi" src="assets/banner-light.svg" width="100%">
 </picture>
 
 ### Ahmad Afzal
@@ -28,20 +28,16 @@ Most of my week is one question wearing different clothes: what does an enterpri
 - If it ships under my name it is mine: the spec, the demo, the threat model, the pricing page.
 - Governance is a product surface, not a policy PDF filed after launch.
 - Write the eval before the roadmap. A claim you cannot test is not a requirement.
-- Sit with the user before you size the epic. Every shortcut past that costs a quarter.
+- Sit with the user before you size the epic. Every shortcut past that gets paid for later.
 
 #### Selected work
 
 - **[ai-governance-checklist](https://github.com/mahfzal87/ai-governance-checklist)** &nbsp;·&nbsp; Intake triage, PRD template and launch gate for taking an AI feature from idea to release, structured on the EU AI Act, the NIST AI RMF and ISO 42001.
 - **[aigp-coach](https://github.com/mahfzal87/aigp-coach)** &nbsp;·&nbsp; A study system for the IAPP AIGP exam that diagnoses why you miss a question rather than just marking it wrong. Built for one user, which was me.
 
-Longer-form writing on AI governance lives at [mahmadafzal.com](https://mahmadafzal.com).
-
-#### Reach me
-
-Follow the work here or on [LinkedIn](https://www.linkedin.com/in/mahfzal/). To actually reach me, [email is best](mailto:mahmaddafzal@gmail.com). Always up for a conversation about governing AI where the rules are still being written.
+Always up for a conversation about governing AI where the rules are still being written.
 
 ---
 
-<sub>This profile is text on purpose. No streak counters, no stats cards: commit volume is a poor proxy for product work.</sub>
+<sub>This profile is text on purpose. Views here are my own, not my employer's.</sub>
 
