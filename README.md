@@ -32,7 +32,8 @@ Most of my week is one question wearing different clothes: what does an enterpri
 
 #### Selected work
 
-- **[ai-governance-checklist](https://github.com/mahfzal87/ai-governance-checklist)** &nbsp;·&nbsp; Intake triage, PRD template and launch gate for taking an AI feature from idea to release, structured on the EU AI Act, the NIST AI RMF and ISO 42001.
+- **[ai-governance-evals](https://github.com/mahfzal87/ai-governance-evals)** &nbsp;·&nbsp; Runnable probes for the governance obligations you can actually observe in a system's behaviour. Point it at a model or an agent and it tells you where you fail, and it is honest about the much larger set of obligations no prompt can test.
+- **[ai-governance-checklist](https://github.com/mahfzal87/ai-governance-checklist)** &nbsp;·&nbsp; The other half of that: intake triage, PRD template and launch gate for taking an AI feature from idea to release, structured on the EU AI Act, the NIST AI RMF and ISO 42001.
 - **[aigp-coach](https://github.com/mahfzal87/aigp-coach)** &nbsp;·&nbsp; A study system for the IAPP AIGP exam that diagnoses why you miss a question rather than just marking it wrong. Built for one user, which was me.
 
 Always up for a conversation about governing AI where the rules are still being written.
