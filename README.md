@@ -5,7 +5,7 @@
 
 ### Ahmad Afzal
 
-**Product Lead for Agent Fabric at [Open Innovation AI](https://openinnovation.ai).** I build AI platforms for organisations that cannot put their data in someone else's cloud, where a data residency clause is the first question rather than the last.
+**Product Lead, AI Platforms at [Open Innovation AI](https://openinnovation.ai).** I build AI platforms for organisations that cannot put their data in someone else's cloud, where a data residency clause is the first question rather than the last.
 
 > Product Lead, AI Platforms &nbsp;·&nbsp; Sovereign and Regulated Enterprise AI &nbsp;·&nbsp; Abu Dhabi, UAE
 
@@ -17,7 +17,7 @@
 
 #### What I'm building now
 
-**Agent Fabric** is the platform: agents, the knowledge they work from, and the governance controls around both, built to run inside the customer's environment rather than beside it. **OI AI Security** is the other half of my remit, where I own positioning for AI red teaming, guardrails and runtime monitoring, mapped against the NIST AI RMF, the EU AI Act and ISO 42001.
+I lead product for an enterprise AI agent platform: the agents, the knowledge they work from, and the governance controls around both, built to run inside the customer's own environment rather than beside it. The other half of my remit is product positioning for the AI security side, covering red teaming, guardrails and runtime monitoring, mapped against the NIST AI RMF, the EU AI Act and ISO 42001.
 
 Most of my week is one question wearing different clothes: what does an enterprise need to see before it will let an agent act on its behalf?
 
