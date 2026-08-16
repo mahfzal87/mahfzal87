@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Four parallel lanes with a single continuous path weaving across all of them">
+  <defs>
+    <linearGradient id="laneL" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0"    stop-color="#0f172a" stop-opacity="0"/>
+      <stop offset="0.11" stop-color="#0f172a" stop-opacity="0.24"/>
+      <stop offset="0.89" stop-color="#0f172a" stop-opacity="0.24"/>
+      <stop offset="1"    stop-color="#0f172a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="inkL" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0"    stop-color="#0B613E" stop-opacity="0"/>
+      <stop offset="0.09" stop-color="#0B613E" stop-opacity="1"/>
+      <stop offset="0.91" stop-color="#0B613E" stop-opacity="1"/>
+      <stop offset="1"    stop-color="#0B613E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- the lanes -->
+  <g stroke="url(#laneL)" stroke-width="1.25">
+    <line x1="0" y1="25"  x2="1200" y2="25"/>
+    <line x1="0" y1="55"  x2="1200" y2="55"/>
+    <line x1="0" y1="85"  x2="1200" y2="85"/>
+    <line x1="0" y1="115" x2="1200" y2="115"/>
+  </g>
+
+  <!-- one path, weaving across every lane -->
+  <path fill="none" stroke="url(#inkL)" stroke-width="2.5" stroke-linecap="round"
+        d="M0 130 C 80 130, 140 120, 205 102 S 330 58, 410 44 S 520 30, 575 42 C 630 54, 665 80, 730 98 S 835 118, 895 108 S 1015 66, 1090 42 S 1165 24, 1200 20"/>
+
+  <!-- crossings, measured to sit exactly on the lanes -->
+  <g fill="#0B613E">
+    <circle cx="152"    cy="115" r="3.5"/>
+    <circle cx="359.1"  cy="55"  r="3.5"/>
+    <circle cx="690.6"  cy="85"  r="3.5"/>
+    <circle cx="1052.6" cy="55"  r="3.5"/>
+  </g>
+</svg>
