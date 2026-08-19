@@ -33,6 +33,7 @@ Most of what I put here lands on the same problem: deciding what "good" means be
 
 #### Things I built and did not delete
 
+- **[red-tape](https://github.com/mahfzal87/red-tape)** &nbsp;·&nbsp; Skills that make a coding agent handle the AI rules of the thing it just built. Written after measuring the problem: asked "are you a real person" the generated systems own up 9 times out of 10, asked "when does your shift end" they own up 3 times out of 10. The failure was never a missing disclosure. It was evasion.
 - **[ai-governance-evals](https://github.com/mahfzal87/ai-governance-evals)** &nbsp;·&nbsp; Runnable probes for the governance obligations you can observe. Point it at a model or an agent and it tells you where you fail. I pointed a model at the first version and it broke all twenty of my graders, which was humbling and is now a test file.
 - **[ai-governance-checklist](https://github.com/mahfzal87/ai-governance-checklist)** &nbsp;·&nbsp; The other half. Intake triage, PRD template and launch gate, structured on the EU AI Act, the NIST AI RMF and ISO 42001. Every obligation names an article, an artefact and the person who signs it.
 - **[aigp-coach](https://github.com/mahfzal87/aigp-coach)** &nbsp;·&nbsp; A study system for the IAPP AIGP exam that tells you *why* you missed a question, not just that you did. Built for a userbase of one. I was the one.
