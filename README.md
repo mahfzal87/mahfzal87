@@ -1,5 +1,3 @@
-<img src="https://mahmadafzal.com/wp-content/uploads/2026/10/ahmad-afzal-conversation.png" alt="Ahmad Afzal in conversation, wearing a dark blazer." width="640">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img alt="Ahmad Afzal, Product Lead, AI Platforms, sovereign and regulated enterprise AI, Abu Dhabi" src="assets/banner-light.svg" width="100%">
